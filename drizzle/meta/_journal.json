@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778450838350,
+      "tag": "0000_lowly_frightful_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778451159941,
+      "tag": "0001_lean_mother_askani",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1778451677189,
+      "tag": "0002_warm_blacklash",
+      "breakpoints": true
+    }
+  ]
+}
